@@ -1,0 +1,13 @@
+Finding Insights Visually
+Now with the dashboard completed, you should be able to use it to analyze SpaceX launch data, and answer the following questions:
+
+Q: Which site has the largest successful launches?
+A: KSC LC-39A (41.7% of all successful launches
+Q: Which site has the highest launch success rate?
+A: KSC LC-39A (76.9%)
+Q: Which payload range(s) has the highest launch success rate?
+A: 1900-3700 kg
+Q: Which payload range(s) has the lowest launch success rate?
+A: 4100-6800 kg
+Q: Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest launch success rate?
+A: FT
